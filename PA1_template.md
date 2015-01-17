@@ -74,7 +74,7 @@ interval_average[which.max(interval_average$steps),1]
 ## [1] 835
 ```
 
-##Imputting missing values
+##Imputing missing values
 
 1. Total number of missing values in the dataset (i.e. the total number of rows with NAs)
 
